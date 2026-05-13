@@ -46,7 +46,7 @@ body {
     font-size: 42px;
     text-align: center;
     margin-bottom: 32px;
-    color: #0f172a;
+    color: ##DCDCDC;
 }
 
 .botoes {
@@ -130,7 +130,7 @@ body {
 
     min-width: 120px;
 
-    background: #a3e8e2;
+    background: #191970;
 
     border-radius: 16px;
 
@@ -140,7 +140,7 @@ body {
 .contador-digito-numero {
     font-size: 72px;
     margin: 0;
-    color: #602f82;
+    color: #191970;
     font-weight: bold;
 }
 
