@@ -1,10 +1,10 @@
 :root {
     --botao-inativo: #4682B4;
-    --rosa: #ffffff;
-    --botao-ativo: #ADD8E6;
-    --lightblue: #836FFF;
+    --rosa: #023146;
+    --botao-ativo: #87CEEB;
+    --lightblue: #0040ca;
     --texto-fundo: #20B2AA;
-    --azul: #000080;
+    --azul: #3a5d91;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    background: linear-gradient(180deg, #8f5c8c, #a64da7);
+    background: linear-gradient(180deg, #051d3b, #287d83);
 
     font-family: 'Chakra Petch', sans-serif;
 }
@@ -24,13 +24,13 @@ body {
     width: 90%;
     max-width: 1000px;
 
-    background-color: rgb(227, 114, 114);
+    background-color: rgba(79, 132, 149, 0.243);
 
     border-radius: 24px;
 
     padding: 40px;
 
-    box-shadow: 0 10px 40px rgba(11, 11, 11, 0.2);
+    box-shadow: 0 10px 40px rgb(3, 14, 42);
 
     display: flex;
     flex-direction: column;
@@ -46,7 +46,7 @@ body {
     font-size: 42px;
     text-align: center;
     margin-bottom: 32px;
-    color: ##DCDCDC;
+    color: #DCDCDC;
 }
 
 .botoes {
@@ -140,7 +140,7 @@ body {
 .contador-digito-numero {
     font-size: 72px;
     margin: 0;
-    color: #191970;
+    color: #B0C4DE;
     font-weight: bold;
 }
 
